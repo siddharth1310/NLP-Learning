@@ -15,3 +15,4 @@ with open("requirements.txt", "w") as req_file:
     req_file.write("\n".join(requirements))
 
 print("requirements.txt generated successfully!")
+print("Hello world")
